@@ -1,17 +1,22 @@
-Para rodar o projeto 
+<h4>Para rodar o projeto</h4>
 1.Abrir o terminal do projeto 
-
-##copia o exemple para o env
+<br>
+<h4>copia o exemple para o env</h4>
+<br>
 2. rodar cp .env.example .env
-
-##build o projeto
+<br>
+<h4>build o projeto</h4>
+<br>
 3./vendor/bin/sail up -d
-
-##abre o shell onde roda todos os comandos artisan 
+<br>
+<h4>abre o shell onde roda todos os comandos artisan</h4>
+<br>
 4./vendor/bin/sail shell
-
-##roda as migrations do projeto
+<br>
+<h4>roda as migrations do projeto</h4>
+<br>
 5.php artisan migrate
-
-##roda os dados fakes para popular o banco caso queria criar na mão só não rodar o comando
+<br>
+<h4>roda os dados fakes para popular o banco caso queria criar na mão só não rodar o comando</h4>
+<br>
 6.php artisan seed
