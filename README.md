@@ -7,11 +7,11 @@
 <br>
 <h4>build o projeto</h4>
 <br>
-3./vendor/bin/sail up -d
+3 sudo docker-compose up -d
 <br>
 <h4>abre o shell onde roda todos os comandos artisan</h4>
 <br>
-4./vendor/bin/sail shell
+4.sudo docker-compose exec app bash
 <br>
 <h4>roda as migrations do projeto</h4>
 <br>
