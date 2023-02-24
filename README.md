@@ -17,6 +17,6 @@
 <br>
 5.php artisan migrate
 <br>
-<h4>roda os dados fakes para popular o banco caso queria criar na mão só não rodar o comando</h4>
+<h4>roda os dados fakes para popular o banco caso deseja criar na mão só não rodar o comando</h4>
 <br>
 6.php artisan seed
